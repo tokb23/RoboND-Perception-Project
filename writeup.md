@@ -48,7 +48,7 @@ And then, the following steps are performed for object recognition:
 
 Here is the snapshot of the normalized confusion matrix from the SVM I trained:
 
-<div><img src='./images/confusion_matrix.png', width='600'></div>
+<div><img src='./images/confusion_matrix.png', width='400'></div>
 
 
 ### Pick and Place Setup
